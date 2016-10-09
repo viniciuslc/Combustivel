@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Combustivel</string>
+    <string name="btn_novo">Novo</string>
+    <string name="menu_item_config">Configurações</string>
 </resources>
